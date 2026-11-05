@@ -2,5 +2,7 @@ package org.circo;
 
 import java.time.LocalDate;
 
-public class Cofrade {d
+public class Cofrade {
+    String nombre;
+    LocalDate fechaNaciiento;
 }
